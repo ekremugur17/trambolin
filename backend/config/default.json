@@ -1,0 +1,11 @@
+{
+  "mongoURI": "mongodb+srv://ugure17:65vet6@cluster0-7i8dw.mongodb.net/trambolin?retryWrites=true&w=majority",
+  "jwtSecret": "trambsecretolin",
+  "awsKeyId": "AKIAI6MTIOW4OVO3XZEA",
+  "awsSecretKey": "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",
+  "awsRegion": "us-west-2",
+  "gsmID": "5530864976",
+  "gsmPW": "DB2F9A",
+  "iyziAPI": "sandbox-3TUKmCikJ1bQE826p7mNYknlyUIyMgE5",
+  "iyziSECRET": "sandbox-qyETOXhyHYUMJ1zbjhN3oQukEDGQiuwA"
+}
